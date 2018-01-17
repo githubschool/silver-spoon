@@ -11,3 +11,6 @@ Places to visit:-
 Chicago Beach  :beer:
 Children's Museum :hotdog:
 Six Flags :tomato:
+
+Changes from LOCAL VM
+SHEDD AQUARIUM
