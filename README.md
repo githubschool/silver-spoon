@@ -25,3 +25,9 @@ git merge new-feat
 git checkout master
 git merge sprint-dev
 ```
+
+### Git Ignore Alias
+
+```
+alias.ignores=!(curl -o .gitignore https://raw.githubusercontent.com/github/gitignore/master/VisualStudio.gitignore) && git add . && git commit -m “gitignore” && :
+```
