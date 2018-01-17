@@ -2,7 +2,7 @@
 
 ## Places to Eat
 
-- Al's Beef :beef:
+- Al's Beef 
 - Giordano's :pizza:
 
 - New Restaurant
