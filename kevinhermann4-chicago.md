@@ -8,4 +8,9 @@
 - Paradise Pup :hamburger:
 - Nuevo Leon before it burned down :(
 - Yu's Mandarin
-- Another edit
+- Another edit 2
+
+### Things to do
+- Navy Pier especially seadog
+- Segway preferablty Absolute Segway
+- Haunted Houses such as Dungeon of Doom and Statesville Haunted Prison
