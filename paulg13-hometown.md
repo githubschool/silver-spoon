@@ -1,4 +1,4 @@
 # Garibaldis
-## Great Places to Great
+## Great Places to eat
 ## Fun Things to do
-## toricies pizza is good!
+## Tortorices PIZZA IS AWESOME!!!
