@@ -8,3 +8,9 @@
 - Nortons :hamburger:
 
 - Sweet Tomato's :tomato:
+
+## Things to Do
+
+- Disney
+- Islands of Adventure
+- Universal Studios
