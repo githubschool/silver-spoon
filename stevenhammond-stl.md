@@ -2,8 +2,8 @@
 
 ## Things to Eat
 
--Sugarfire BBQ :bbq:
--Original Pancake House :pancake:
--Dewey's Pizza :pizza:
--Bailey's Range :hamburger:
--Drunken Fish :sushi:
+- Sugarfire BBQ :meat_on_bone:
+- Original Pancake House :egg:
+- Dewey's Pizza :pizza:
+- Bailey's Range :hamburger:
+- Drunken Fish :sushi:
