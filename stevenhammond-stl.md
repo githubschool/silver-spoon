@@ -6,3 +6,4 @@
 -Original Pancake House :pancake:
 -Dewey's Pizza :pizza:
 -Bailey's Range :hamburger:
+-Drunken Fish :sushi:
