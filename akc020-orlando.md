@@ -2,6 +2,7 @@
 
 ## Places to Eat
 
-- Frank N Steins :hamburger:
-- Jungle Jim's :hamburger:
-- Disney Springs :mouse:
+- Five guys :hamburger:
+- Akai :sushi:
+- Furs :squirrel:
+- Salata :tomato:
