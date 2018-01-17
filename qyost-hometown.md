@@ -1,6 +1,6 @@
 # HOMETOWN
 
-## Great places to Great
+## Great places to Eat
 - McDonalds :hamburger:
 - Subway
 - Cowfish :sushi: :hamburger:
