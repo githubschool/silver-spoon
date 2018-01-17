@@ -5,5 +5,5 @@
 - Jungle Jim's :hamburger:
 - Disney Springs :mouse:
 
-- Nortons :hamburgers:
+- Nortons :hamburger:
 - Sweet Tomato's :tomato:
