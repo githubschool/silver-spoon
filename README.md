@@ -31,3 +31,20 @@ git merge sprint-dev
 ```
 alias.ignores=!(curl -o .gitignore https://raw.githubusercontent.com/github/gitignore/master/VisualStudio.gitignore) && git add . && git commit -m “gitignore” && :
 ```
+
+- **For BASH**
+
+ for d in {1..6};
+ do touch file$d.md;
+ git add file$d.md;
+ git commit -m "adding file $d";
+ done
+ 
+ 
+ - **PowerShell:**
+
+ for ($d=1; $d -le 6;$d++) {
+   touch file$d.md;
+   git add file$d.md;
+   git commit -m "adding file$d.md";
+ }
